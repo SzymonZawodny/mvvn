@@ -1,0 +1,188 @@
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\ApplicationInsights.config
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\csc.exe
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\vbc.exe
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\VBCSCompiler.exe
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\CoursesApi.dll.config
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\CoursesApi.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\CoursesApi.pdb
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Antlr3.Runtime.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.Web.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Newtonsoft.Json.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Net.Http.Formatting.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Helpers.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Http.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Http.WebHost.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Mvc.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Optimization.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Razor.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.WebPages.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.WebPages.Razor.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\WebGrease.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.Web.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Newtonsoft.Json.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Net.Http.Formatting.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Helpers.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Http.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Http.WebHost.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Mvc.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Optimization.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.Razor.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.WebPages.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\System.Web.WebPages.Razor.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\Antlr3.Runtime.pdb
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\obj\Debug\CoursesApi.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\obj\Debug\CoursesApi.pdb
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\EntityFramework.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\EntityFramework.SqlServer.dll
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\EntityFramework.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\bin\EntityFramework.SqlServer.xml
+c:\users\susci\documents\visual studio 2015\Projects\CoursesApi\CoursesApi\obj\Debug\CoursesApi.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\ApplicationInsights.config
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\CoursesApi.dll.config
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\CoursesApi.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\CoursesApi.pdb
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\EntityFramework.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Http.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.WebPages.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\WebGrease.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\EntityFramework.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Http.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.WebPages.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\obj\Debug\CoursesApi.dll
+\\Mac\Home\Desktop\CoursesApi\CoursesApi\obj\Debug\CoursesApi.pdb
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\ApplicationInsights.config
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\csc.exe
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\vbc.exe
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\CoursesApi.dll.config
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\CoursesApi.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\CoursesApi.pdb
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Antlr3.Runtime.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\EntityFramework.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Helpers.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Http.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Mvc.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Optimization.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Razor.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.WebPages.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\WebGrease.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\EntityFramework.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Helpers.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Http.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Mvc.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Optimization.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.Razor.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.WebPages.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\obj\Debug\CoursesApi.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\obj\Debug\CoursesApi.dll
+\\Mac\Home\Downloads\CoursesApi\CoursesApi\obj\Debug\CoursesApi.pdb

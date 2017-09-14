@@ -1,0 +1,1 @@
+\\Mac\Home\Downloads\CoursesApi\CoursesApp\CoursesApp.csproj;x86

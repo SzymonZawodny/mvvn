@@ -1,0 +1,42 @@
+﻿@model CoursesApi.Models.Step
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Step</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.course.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.course.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.numberOfStep)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.numberOfStep)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.description)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StepID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
